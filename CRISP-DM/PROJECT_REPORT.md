@@ -1,7 +1,7 @@
 # CRISP-DM Project Report: Predicting Telecom Customer Churn
 
 **Student name:** Arti Ramesh Nalawade  
-**Student ID:** 02075713  
+**Student ID:** 020757113  
 **Project type:** Individual educational data science case study  
 **Methodology:** CRISP-DM (six phases)  
 **Data source:** Kaggle - `blastchar/telco-customer-churn`  
