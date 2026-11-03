@@ -63,9 +63,6 @@ An initial review found: (1) candidate comparisons were performed on the final t
 - Fairness, calibration, business ROI and causal impact have not been quantitatively established.
 - A historical test sample shows inference, but not a live operational system.
 
-## Reproducibility and submission
-Upload `crisp_dm_project_final.ipynb` into Google Colab, select **Runtime → Run all**, and ensure `DATA SOURCE: Kaggle: blastchar/telco-customer-churn` appears. Download the executed notebook and generated files from its Colab session. The notebook uses `kagglehub`, `pandas`, `numpy`, `matplotlib`, `scikit-learn` and `joblib`. Consult its output cells for the authoritative run-specific results.
-
 **Dataset citation:** Kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Key terms in simple words
