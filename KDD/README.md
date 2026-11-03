@@ -20,4 +20,3 @@ This folder contains an executed Google Colab notebook, a KDD project report, a 
 - 5 rules after confidence and lift filters
 - Manual support and confidence verification passed
 
-The article is a draft for personal review and publishing. Cite and link the Kaggle dataset when publishing.
