@@ -1,7 +1,7 @@
 # KDD - Grocery Market Basket Analysis
 
 **Student:** Arti Ramesh Nalawade  
-**Student ID:** 02075713
+**Student ID:** 020757113
 
 This folder contains an executed Google Colab notebook, a KDD project report, a simple-English Medium article draft, and a short walkthrough note.
 
