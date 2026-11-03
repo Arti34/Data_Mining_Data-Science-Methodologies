@@ -5,3 +5,4 @@ Medium article for KDD: https://medium.com/@nalawade.arti/what-do-customers-buy-
 Medium article for KDD: https://medium.com/@nalawade.arti/can-study-habits-predict-student-grades-my-data-science-project-using-semma-4ad10f9f3c0b
 
 Youtube Video Link Explaining three projects:
+https://youtu.be/m8ocNCugkpQ
